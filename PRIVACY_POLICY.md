@@ -93,8 +93,8 @@ Continued use of the app after changes constitutes acceptance of the updated pol
 
 If you have any questions or concerns about this Privacy Policy, please contact us via:
 
-- **App Store listing**: [ShraddhaAI on the App Store](https://apps.apple.com/app/shraddhaai)
-- **GitHub Issues**: [https://github.com/manvendrapratapsinghdev/shraddhaAI/issues](https://github.com/manvendrapratapsinghdev/shraddhaAI/issues)
+- **Email**: tacrotech@gmail.com
+- **whatsapp**: +91 9807942950
 
 ---
 
